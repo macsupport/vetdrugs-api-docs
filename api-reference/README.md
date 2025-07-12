@@ -16,7 +16,7 @@ All API requests require authentication using an API key:
 X-API-Key: vd_your_api_key_here
 ```
 
-Get your API key from the [VetDrugs dashboard](https://dashboard.vetdrugscalculators.com).
+Get your API key by contacting [support@vetdrugscalculators.com](mailto:support@vetdrugscalculators.com).
 
 ## Endpoints Overview
 

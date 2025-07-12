@@ -336,4 +336,4 @@ For questions about any release or help with migration:
 
 ---
 
-**Stay Updated**: Subscribe to our [developer newsletter](https://vetdrugscalculators.com/newsletter) for release announcements and API updates.
+**Stay Updated**: Email [support@vetdrugscalculators.com](mailto:support@vetdrugscalculators.com) to subscribe to release announcements and API updates.

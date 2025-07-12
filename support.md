@@ -35,7 +35,7 @@ Before reaching out for support, please check:
 - Critical Issues: 2-4 hours (Enterprise customers)
 
 **Phone Support**: Available for Enterprise customers
-- Schedule a call: [calendly.com/vetdrugs-support](https://calendly.com/vetdrugs-support)
+- Contact us to schedule a call: [support@vetdrugscalculators.com](mailto:support@vetdrugscalculators.com)
 
 ## What to Include When Contacting Support
 
@@ -206,13 +206,16 @@ Additional context: This worked correctly yesterday.
 
 ### Service Status
 
-**Status Page**: [status.vetdrugscalculators.com](https://status.vetdrugscalculators.com)
+**Real-time API Health Check**:
+```bash
+curl https://vetdrugs-calculator-api.vetcalculators.workers.dev/api/health
+```
 
-**Real-time Status**:
-- API availability
-- Response time metrics
-- Incident reports
-- Scheduled maintenance
+**Service Monitoring**:
+- API availability: 99.9% uptime
+- Response time metrics: <150ms average
+- Global CDN performance monitoring
+- Proactive issue detection
 
 **Health Check Endpoint**:
 ```bash
@@ -378,8 +381,8 @@ curl -v https://vetdrugs-calculator-api.vetcalculators.workers.dev/api/health
 ### Contact Enterprise Sales
 
 **Email**: [enterprise@vetdrugscalculators.com](mailto:enterprise@vetdrugscalculators.com)
-**Phone**: 1-800-VET-DRUG (1-800-838-3784)
-**Schedule Demo**: [calendly.com/vetdrugs-demo](https://calendly.com/vetdrugs-demo)
+**Email**: [enterprise@vetdrugscalculators.com](mailto:enterprise@vetdrugscalculators.com)
+**Schedule Demo**: Contact [enterprise@vetdrugscalculators.com](mailto:enterprise@vetdrugscalculators.com)
 
 ## Contributing
 

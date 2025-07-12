@@ -245,7 +245,7 @@ fetch('/api/calculate', options)
 
 If you encounter persistent errors:
 
-1. **Check Status Page**: [status.vetdrugscalculators.com](https://status.vetdrugscalculators.com)
+1. **Check API Health**: Test `/api/health` endpoint for service status
 2. **Review Documentation**: Ensure correct API usage
 3. **Contact Support**: support@vetdrugscalculators.com with:
    - Request details (URL, headers, body)

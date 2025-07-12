@@ -50,7 +50,7 @@ https://vetdrugs-calculator-api.vetcalculators.workers.dev/
 
 - 📧 Email: support@vetdrugscalculators.com
 - 📖 Documentation: docs.vetdrugscalculators.com
-- 📊 Status: status.vetdrugscalculators.com
+- 🔍 API Health: `/api/health` endpoint
 
 ---
 
